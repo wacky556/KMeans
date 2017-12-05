@@ -1,4 +1,3 @@
-# KMeans
 KMeans visualization tool
 ----------------------------------------
 To Run java main.Main
